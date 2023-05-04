@@ -114,6 +114,13 @@ button {
         clear:both;
         content: '';
     }
+        .pie-pagina {
+        margin: auto;
+        padding: 5%;
+        min-width: 1050px;
+        background-color: #0a141d;
+    
+    }
 }
 
 
